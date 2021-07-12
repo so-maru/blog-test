@@ -1,0 +1,58 @@
+
+body {background: #eeeeee;}
+.animation1:hover{
+    text-align: center;
+    font-size: 2em;
+    transition: 1s;
+    color: aqua;
+}
+.animation2:hover{
+    text-align: center;
+    font-size: 2em;
+    transition: 1s;
+    color: aqua;
+}
+.bottun{color:white;
+    background-color: gray;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    margin: 30px auto;
+}
+div #text1 {    
+    position: fixed ;    
+    top: 0;  
+    left: 0;  
+    width: 100%;  
+    height: 10%;  
+}
+.list{
+    text-decoration: none;
+    list-style-type:none;
+    border: groove 3px gray;
+    background-color: whitesmoke;
+    color: blue;
+    padding:0;
+    margin: 0;
+    display: inline;
+    font-size: 1em;
+    transition: 1s;
+}
+animation2:hover{
+    font-size: 2em;
+    transition: 1s;
+    color: aqua;
+}
+.title{color:cornflowerblue;
+    background-color: cyan;
+    border:double 5px grey;
+    text-align: center;
+    padding: 10px;
+    margin: 30px auto;
+    font: weight 10px;
+}
+.help{cursor:help;}
+.example {
+    filter: glow(color=red, strength=100);
+    }
+    
